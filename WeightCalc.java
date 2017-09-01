@@ -1,4 +1,5 @@
 public class WeightCalc
+    //this is a program that calculates an objects weight in pounds on earth to weight in pounds on other planets
 {
 	public static void main (String[] args)
 	{
